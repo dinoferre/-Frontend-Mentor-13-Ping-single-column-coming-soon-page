@@ -2,8 +2,8 @@
 This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/dinoferre/Frontend-Mentor-13-Ping-single-column-coming-soon-page.git
+- Live Site URL: https://dinoferre.github.io/Frontend-Mentor-13-Ping-single-column-coming-soon-page
 
 ### Built with
 - Semantic HTML5 markup
@@ -11,6 +11,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 - Mobile-first workflow
 - MediaQuery
 - Flexbox
+- JS
 
 ## Author
 - Website - [Dino Ferre](https://github.com/dinoferre)
